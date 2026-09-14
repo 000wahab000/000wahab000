@@ -2,7 +2,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-wahabshafishaikh-blue)](https://www.linkedin.com/in/wahabshafishaikh/)
 
-Building AI/agent side projects, contributing typo and doc fixes to open source repos.
+doing shit to take mind off 
+recently been exploring how production shit works with AWS ec2 frag micro , digital ocean , google cloud , oracle and all the bs there is 
+and also DSA since idk
 
 ### Building
 

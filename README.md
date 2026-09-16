@@ -14,6 +14,7 @@
 
 ### Contributing to
 
+- **[Azure Quickstart Templates](https://github.com/Azure/azure-quickstart-templates)** ![stars](https://img.shields.io/github/stars/Azure/azure-quickstart-templates?style=flat) - fixed a dead template index link in README.md ([PR #14850](https://github.com/Azure/azure-quickstart-templates/pull/14850)) - merged into `Azure/master`
 - **[eclipse-collections](https://github.com/eclipse-collections/eclipse-collections)** ![stars](https://img.shields.io/github/stars/eclipse-collections/eclipse-collections?style=flat) - added iteration patterns section for primitive lists in reference guide
 - **[FitMart](https://github.com/parthbuilds-community/FitMart)** - added rolling conversation history and clear chat button to AI chatbot
 - **[igv.js](https://github.com/igvteam/igv.js)** ![stars](https://img.shields.io/github/stars/igvteam/igv.js?style=flat) - fixed typo in BAM header error message

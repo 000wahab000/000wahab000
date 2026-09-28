@@ -11,7 +11,7 @@
 - **[Evolution](https://github.com/000wahab000/Evolution)** ![stars](https://img.shields.io/github/stars/000wahab000/Evolution?style=flat) - artificial life sim, evolving a quadruped to walk using genetic algorithms and a small neural net, pymunk physics
 
   <a href="https://github.com/000wahab000/Evolution">
-<img width="560" height="527" alt="walker-stats" src="https://github.com/user-attachments/assets/302c323c-e595-4d99-ac71-9f960e0c94d2" />
+<img width="400" height="400" alt="walker-stats" src="https://github.com/user-attachments/assets/302c323c-e595-4d99-ac71-9f960e0c94d2" />
   </a>
 
 - **[AskVES](https://github.com/000wahab000/AskVES)** ![stars](https://img.shields.io/github/stars/000wahab000/AskVES?style=flat) - RAG chatbot for VESIT college students, answers canteen/teacher/event queries using Groq/Gemini + Supabase
